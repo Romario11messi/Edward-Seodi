@@ -35,7 +35,7 @@ When I'm not working with data, I enjoy **soccer** and **reading books**. Curren
 
 - **Sales Data Analysis & Data Cleaning Project:**  
   Explored a dataset with 250 rows × 10 columns using Python and Pandas. Performed data cleaning, handled missing values, and conducted exploratory data analysis (EDA) to extract actionable insights.  
-[View Project →](https://github.com/EdwardSeodi/Data-Analysis-Projects/tree/main/Sales-Data-Analysis)
+[View Project →](https://github.com/EdwardSeodi/Data-Analyis-Projects)
 
 ## 🌱 Currently Learning 
 
